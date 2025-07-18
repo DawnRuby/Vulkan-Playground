@@ -1,0 +1,47 @@
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/native/win-x64/SDL2.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/native/win-x86/SDL2.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/native/osx-x64/libsdl2.dylib
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Velvrid Tutorial
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Velvrid Tutorial.deps.json
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Velvrid Tutorial.runtimeconfig.json
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Velvrid Tutorial.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Velvrid Tutorial.pdb
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/NativeLibraryLoader.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/SharpGen.Runtime.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/SharpGen.Runtime.COM.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/vk.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Vortice.D3DCompiler.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Vortice.Direct3D11.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Vortice.DirectX.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Vortice.DXGI.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Vortice.Mathematics.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.MetalBindings.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.OpenGLBindings.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.SDL2.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.StartupUtilities.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.StartupUtilities.pdb
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.MetalBindings.pdb
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.OpenGLBindings.pdb
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.SDL2.pdb
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.pdb
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.xml
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.csproj.AssemblyReference.cache
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.AssemblyInfoInputs.cache
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.AssemblyInfo.cs
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.csproj.CoreCompileInputs.cache
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid .3910037E.Up2Date
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/refint/Velvrid Tutorial.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.pdb
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/Velvrid Tutorial.genruntimeconfig.cache
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/Debug/net9.0/ref/Velvrid Tutorial.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/Veldrid.SPIRV.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/runtimes/linux-x64/native/libveldrid-spirv.so
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/runtimes/osx/native/libveldrid-spirv.dylib
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/runtimes/win-x64/native/libveldrid-spirv.dll
+/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/bin/Debug/net9.0/runtimes/win-x86/native/libveldrid-spirv.dll

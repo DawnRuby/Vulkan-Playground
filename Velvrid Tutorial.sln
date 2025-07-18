@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Velvrid Tutorial", "Velvrid Tutorial\Velvrid Tutorial.csproj", "{145D1622-57C6-4FA9-B2B5-A43AA3B89CAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid", "..\..\Documents\veldrid-4.9.0\src\Veldrid\Veldrid.csproj", "{69C86831-0241-4583-B78C-88A820074E5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.ImageSharp", "..\..\Documents\veldrid-4.9.0\src\Veldrid.ImageSharp\Veldrid.ImageSharp.csproj", "{55DD8904-D626-440F-9C3C-C915EB7EC532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.MetalBindings", "..\..\Documents\veldrid-4.9.0\src\Veldrid.MetalBindings\Veldrid.MetalBindings.csproj", "{B71171A1-FD73-4893-A97E-176D79186B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.OpenGLBindings", "..\..\Documents\veldrid-4.9.0\src\Veldrid.OpenGLBindings\Veldrid.OpenGLBindings.csproj", "{476F0CB5-225F-4EEB-850D-D9DD4DFF6B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.StartupUtilities", "..\..\Documents\veldrid-4.9.0\src\Veldrid.StartupUtilities\Veldrid.StartupUtilities.csproj", "{E58BFEF0-1E07-411A-937B-17D77722B6D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.SDL2", "..\..\Documents\veldrid-4.9.0\src\Veldrid.SDL2\Veldrid.SDL2.csproj", "{6CC1128A-86ED-4B6D-9BB9-1B77E6240AEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Render Engine", "Render Engine", "{2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.Utilities", "..\..\Documents\veldrid-4.9.0\src\Veldrid.Utilities\Veldrid.Utilities.csproj", "{68062A02-47B2-488E-9E9D-BD9AAC2D8D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.RenderDoc", "..\..\Documents\veldrid-4.9.0\src\Veldrid.RenderDoc\Veldrid.RenderDoc.csproj", "{CA94F5BA-3212-4FDF-8411-AA767C31588B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.SPIRV", "..\..\Documents\veldrid-spirv\src\Veldrid.SPIRV\Veldrid.SPIRV.csproj", "{D63A19B8-E76E-43A5-A41E-0FE8680A9BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veldrid.SPIRV.VariantCompiler", "..\..\Documents\veldrid-spirv\src\Veldrid.SPIRV.VariantCompiler\Veldrid.SPIRV.VariantCompiler.csproj", "{88A26BAD-977C-41D8-A7F5-9A71F3D50880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145D1622-57C6-4FA9-B2B5-A43AA3B89CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145D1622-57C6-4FA9-B2B5-A43AA3B89CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145D1622-57C6-4FA9-B2B5-A43AA3B89CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145D1622-57C6-4FA9-B2B5-A43AA3B89CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C86831-0241-4583-B78C-88A820074E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C86831-0241-4583-B78C-88A820074E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C86831-0241-4583-B78C-88A820074E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C86831-0241-4583-B78C-88A820074E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DD8904-D626-440F-9C3C-C915EB7EC532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DD8904-D626-440F-9C3C-C915EB7EC532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DD8904-D626-440F-9C3C-C915EB7EC532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DD8904-D626-440F-9C3C-C915EB7EC532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71171A1-FD73-4893-A97E-176D79186B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71171A1-FD73-4893-A97E-176D79186B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71171A1-FD73-4893-A97E-176D79186B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71171A1-FD73-4893-A97E-176D79186B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476F0CB5-225F-4EEB-850D-D9DD4DFF6B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476F0CB5-225F-4EEB-850D-D9DD4DFF6B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476F0CB5-225F-4EEB-850D-D9DD4DFF6B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476F0CB5-225F-4EEB-850D-D9DD4DFF6B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58BFEF0-1E07-411A-937B-17D77722B6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58BFEF0-1E07-411A-937B-17D77722B6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58BFEF0-1E07-411A-937B-17D77722B6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58BFEF0-1E07-411A-937B-17D77722B6D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CC1128A-86ED-4B6D-9BB9-1B77E6240AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC1128A-86ED-4B6D-9BB9-1B77E6240AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC1128A-86ED-4B6D-9BB9-1B77E6240AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC1128A-86ED-4B6D-9BB9-1B77E6240AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68062A02-47B2-488E-9E9D-BD9AAC2D8D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68062A02-47B2-488E-9E9D-BD9AAC2D8D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68062A02-47B2-488E-9E9D-BD9AAC2D8D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68062A02-47B2-488E-9E9D-BD9AAC2D8D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA94F5BA-3212-4FDF-8411-AA767C31588B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA94F5BA-3212-4FDF-8411-AA767C31588B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA94F5BA-3212-4FDF-8411-AA767C31588B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA94F5BA-3212-4FDF-8411-AA767C31588B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63A19B8-E76E-43A5-A41E-0FE8680A9BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63A19B8-E76E-43A5-A41E-0FE8680A9BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63A19B8-E76E-43A5-A41E-0FE8680A9BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63A19B8-E76E-43A5-A41E-0FE8680A9BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A26BAD-977C-41D8-A7F5-9A71F3D50880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A26BAD-977C-41D8-A7F5-9A71F3D50880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A26BAD-977C-41D8-A7F5-9A71F3D50880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A26BAD-977C-41D8-A7F5-9A71F3D50880}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{69C86831-0241-4583-B78C-88A820074E5A} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{55DD8904-D626-440F-9C3C-C915EB7EC532} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{B71171A1-FD73-4893-A97E-176D79186B0E} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{476F0CB5-225F-4EEB-850D-D9DD4DFF6B2C} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{6CC1128A-86ED-4B6D-9BB9-1B77E6240AEE} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{E58BFEF0-1E07-411A-937B-17D77722B6D1} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{68062A02-47B2-488E-9E9D-BD9AAC2D8D9B} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{CA94F5BA-3212-4FDF-8411-AA767C31588B} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{D63A19B8-E76E-43A5-A41E-0FE8680A9BED} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+		{88A26BAD-977C-41D8-A7F5-9A71F3D50880} = {2EA228DD-06F1-4DCC-A36E-FF2F1EAFC7AF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,596 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/Velvrid Tutorial.csproj": {}
+  },
+  "projects": {
+    "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.MetalBindings/Veldrid.MetalBindings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.MetalBindings/Veldrid.MetalBindings.csproj",
+        "projectName": "Veldrid.MetalBindings",
+        "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.MetalBindings/Veldrid.MetalBindings.csproj",
+        "packagesPath": "/home/dawn/.nuget/packages/",
+        "outputPath": "/home/dawn/Documents/veldrid-4.9.0/bin/obj/Veldrid.MetalBindings/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Nerdbank.GitVersioning": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/dawn/.dotnet/sdk/9.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.OpenGLBindings/Veldrid.OpenGLBindings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.OpenGLBindings/Veldrid.OpenGLBindings.csproj",
+        "projectName": "Veldrid.OpenGLBindings",
+        "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.OpenGLBindings/Veldrid.OpenGLBindings.csproj",
+        "packagesPath": "/home/dawn/.nuget/packages/",
+        "outputPath": "/home/dawn/Documents/veldrid-4.9.0/bin/obj/Veldrid.OpenGLBindings/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Nerdbank.GitVersioning": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/dawn/.dotnet/sdk/9.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.SDL2/Veldrid.SDL2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.SDL2/Veldrid.SDL2.csproj",
+        "projectName": "Veldrid.SDL2",
+        "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.SDL2/Veldrid.SDL2.csproj",
+        "packagesPath": "/home/dawn/.nuget/packages/",
+        "outputPath": "/home/dawn/Documents/veldrid-4.9.0/bin/obj/Veldrid.SDL2/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NativeLibraryLoader": {
+              "target": "Package",
+              "version": "[1.0.13, )"
+            },
+            "Nerdbank.GitVersioning": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/dawn/.dotnet/sdk/9.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.StartupUtilities/Veldrid.StartupUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.StartupUtilities/Veldrid.StartupUtilities.csproj",
+        "projectName": "Veldrid.StartupUtilities",
+        "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.StartupUtilities/Veldrid.StartupUtilities.csproj",
+        "packagesPath": "/home/dawn/.nuget/packages/",
+        "outputPath": "/home/dawn/Documents/veldrid-4.9.0/bin/obj/Veldrid.StartupUtilities/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.SDL2/Veldrid.SDL2.csproj": {
+                "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.SDL2/Veldrid.SDL2.csproj"
+              },
+              "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid/Veldrid.csproj": {
+                "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid/Veldrid.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Nerdbank.GitVersioning": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/dawn/.dotnet/sdk/9.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid/Veldrid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid/Veldrid.csproj",
+        "projectName": "Veldrid",
+        "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid/Veldrid.csproj",
+        "packagesPath": "/home/dawn/.nuget/packages/",
+        "outputPath": "/home/dawn/Documents/veldrid-4.9.0/bin/obj/Veldrid/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/home/dawn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.MetalBindings/Veldrid.MetalBindings.csproj": {
+                "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.MetalBindings/Veldrid.MetalBindings.csproj"
+              },
+              "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.OpenGLBindings/Veldrid.OpenGLBindings.csproj": {
+                "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.OpenGLBindings/Veldrid.OpenGLBindings.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.MetalBindings/Veldrid.MetalBindings.csproj": {
+                "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.MetalBindings/Veldrid.MetalBindings.csproj"
+              },
+              "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.OpenGLBindings/Veldrid.OpenGLBindings.csproj": {
+                "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.OpenGLBindings/Veldrid.OpenGLBindings.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NativeLibraryLoader": {
+              "target": "Package",
+              "version": "[1.0.13, )"
+            },
+            "Nerdbank.GitVersioning": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            },
+            "Vk": {
+              "target": "Package",
+              "version": "[1.0.25, )"
+            },
+            "Vortice.D3DCompiler": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Vortice.Direct3D11": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/dawn/.dotnet/sdk/9.0.302/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.SourceLink.GitHub": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NativeLibraryLoader": {
+              "target": "Package",
+              "version": "[1.0.13, )"
+            },
+            "Nerdbank.GitVersioning": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.4.255, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.5, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Vk": {
+              "target": "Package",
+              "version": "[1.0.25, )"
+            },
+            "Vortice.D3DCompiler": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Vortice.Direct3D11": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/dawn/.dotnet/sdk/9.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/Velvrid Tutorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/Velvrid Tutorial.csproj",
+        "projectName": "Velvrid Tutorial",
+        "projectPath": "/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/Velvrid Tutorial.csproj",
+        "packagesPath": "/home/dawn/.nuget/packages/",
+        "outputPath": "/home/dawn/RiderProjects/Velvrid Tutorial/Velvrid Tutorial/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/dawn/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.StartupUtilities/Veldrid.StartupUtilities.csproj": {
+                "projectPath": "/home/dawn/Documents/veldrid-4.9.0/src/Veldrid.StartupUtilities/Veldrid.StartupUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )",
+              "autoReferenced": true
+            },
+            "Veldrid.SPIRV": {
+              "target": "Package",
+              "version": "[1.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "runtime.linux-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[9.0.7, 9.0.7]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/dawn/.dotnet/sdk/9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
